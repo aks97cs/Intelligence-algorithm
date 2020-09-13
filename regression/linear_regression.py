@@ -51,4 +51,4 @@ def gradient_descent():
 
 if __name__ == "__main__":
     gradient_descent()
-   
+
